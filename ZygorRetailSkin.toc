@@ -1,0 +1,11 @@
+## Interface: 120105
+## Title: Zygor Retail Skin
+## IconTexture: Interface\AddOns\ZygorRetailSkin\Media\Icon.tga
+## Notes: A warm, subdued visual theme for the Zygor guide viewer on WoW Retail.
+## Notes-deDE: Dunkles, bronzefarbenes Design für den Zygor-Guideviewer in WoW Retail.
+## Author: norushflow
+## Version: 0.1.0
+## OptionalDeps: ZygorGuidesViewer
+
+Style.lua
+Core.lua

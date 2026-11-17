@@ -1,0 +1,13 @@
+package-as: ZygorRetailSkin
+manual-changelog:
+  filename: RELEASE_NOTES.md
+  markup-type: markdown
+ignore:
+  - AGENTS.md
+  - RELEASE_NOTES.md
+  - tests
+  - tools
+  - TEMP
+  - dist
+  - Media/Expressway.ttf
+  - Media/MORPHEUS.TTF
